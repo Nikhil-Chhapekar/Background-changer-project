@@ -1,0 +1,28 @@
+body{
+    margin: auto;
+    width: fit-content;
+   
+    
+}
+.container{
+    display:flex;
+    gap: 2px;
+}
+.buttons{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+   
+}
+#orange{
+    background-color: orange;
+}
+#white{
+    background-color:#fff;
+}
+#green{
+    background-color: rgb(102, 255, 0);
+}
+#blue{
+    background-color: rgb(36, 26, 179);
+}
